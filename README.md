@@ -54,7 +54,7 @@ mi_proyecto_login/
 
 Puedes iniciar sesión con el siguiente usuario de prueba:
 
-- **Usuario:** `usuarioprueba`
+- **Usuario:** `Usuarioprueba`
 - **Contraseña:** `123456`
 
 ## 📄 Licencia
